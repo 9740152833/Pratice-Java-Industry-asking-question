@@ -1,0 +1,10 @@
+package com.pratice.one;
+
+public class SaveCourses {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
